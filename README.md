@@ -10,6 +10,8 @@
 
 ### [![Twitter](https://img.shields.io/twitter/follow/Lokysec?style=social?style=for-the-badge&logo=twitter)](https://instagram.com/fajartheggman)
 
+<br>
+
 # Github Status
 ![](https://github-readme-stats.vercel.app/api?username=Lokysec&theme=blue-green)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lokysec&theme=blue-green)
