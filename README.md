@@ -8,7 +8,7 @@
 
 ### French / 22 years
 
-### [![Website](https://img.shields.io/badge/Website-FajarTheGGman-black?style=for-the-badge&logo=vercel)](https://loky.info) [![Twitter](https://img.shields.io/twitter/follow/Lokysec?style=social?style=for-the-badge&logo=twitter)](https://instagram.com/fajartheggman)
+### [![Twitter](https://img.shields.io/twitter/follow/Lokysec?style=social?style=for-the-badge&logo=twitter)](https://instagram.com/fajartheggman)
 
 # Github Status
 ![](https://github-readme-stats.vercel.app/api?username=Lokysec&theme=blue-green)
