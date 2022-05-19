@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=0xLoky%20🏴‍☠️&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20And%20Pentesting%20Tool%20Scripting&descAlignY=51&descAlign=62)
 <div style="width: 10px;"></div>
-<a  href="https://discord.gg/5dZPVytKnn"><img align="right" src="https://discordapp.com/api/guilds/914797672907563041/widget.png?style=banner4"/></a>
+<a  href="https://discord.gg/tBNG8Myd4f"><img align="right" src="https://discordapp.com/api/guilds/914797672907563041/widget.png?style=banner4"/></a>
 
 ```C++
 #include <iostream>
@@ -72,7 +72,7 @@ int main() {
 <h4 align="center">
 
 
-## **☕ Donates:**
+## **Buy me a coffee ☕**
 <h5 align="center">help our projects by making a donation, all the money raised is used for new projects</h5>
 <p align="center">
     <a href="https://www.paypal.com/donate?hosted_button_id=NKQEXWK3RQDPQ&source=url">
