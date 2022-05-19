@@ -5,7 +5,7 @@
 ```C++
 #include <iostream>
 #include <stdio.h>
-using namespace std::Loky チム;
+using namespace std::Loky 🏴‍☠️;
 
 int main() {
     char info[128] = "Software Engineer and Machine Learning";
@@ -51,34 +51,22 @@ int main() {
 
   <p align="center">
    <a href="">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/c.svg" alt="c" width="40" height="40"/>
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/python.svg" alt="pythob" width="40" height="40"/>
    </a>
    <a href="">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg" alt="cpp" width="40" height="40"/>
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/perl.svg" alt="perl" width="40" height="40"/>
    </a>
    <a href="">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/c-sharp.svg" alt="csharp" width="40" height="40"/>
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/c.svg" alt="vscode" width="40" height="40"/>
    </a>
    <a href="">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/fsharp.svg" alt="fsharp" width="40" height="40"/>
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/php.svg" alt="vscode" width="40" height="40"/>
    </a>
    <a href="">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/assembly.svg" alt="nodejs" width="40" height="40"/>
-   </a>
-   <a href="">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/opengl.svg" alt="vscode" width="40" height="40"/>
-   </a>
-   <a href="">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/opencv.svg" alt="vscode" width="40" height="40"/>
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/mysql.svg" alt="vscode" width="40" height="40"/>
    </a>
    <a href="https://code.visualstudio.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-   </a>
-   <a href="">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/neovim.svg" alt="vscode" width="40" height="40"/>
-   </a>
-   <a href="">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/clojure.svg" alt="vscode" width="40" height="40"/>
    </a>
 </p>
 <h4 align="center">
@@ -92,5 +80,5 @@ int main() {
     </a>
 
 <p align="center">
-    OkamiMks@protonmail.com - Paypal<br>
+    0xLoky@protonmail.com - Paypal<br>
  </p>
