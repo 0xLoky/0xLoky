@@ -10,7 +10,7 @@ using namespace std::Loky チム;
 int main() {
     char info[128] = "Software Engineer and Machine Learning";
 
-    char *langs[4] = { "C", "C++", "C#", "Assembly" };
+    char *langs[4] = { "Python3", "Perl", "C", "Assembly" };
     char tech[5] = { "Unreal", "Unity", "OpenGL", "Vulkan", "DirectX" };
     
     // Server:   https://discord.gg/5dZPVytKnn;
@@ -20,25 +20,21 @@ int main() {
 ``` 
 <div style="width: 10px;"></div>
 <div align="center">
-    <a href="https://www.patreon.com/OkamiMks">
-        <img alt="Patreon donate"
-             src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DOkamiMks%26type%3Dpatrons&style=flat-square">
-    </a> 
     <a href="https://www.paypal.com/donate?hosted_button_id=NKQEXWK3RQDPQ&source=url">
         <img alt="Paypal donate"
              src="https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=flat-square">
     </a>
-    <a href"https://github.com/OkamiMks?tab=followers">
+    <a href"https://github.com/0xLoky?tab=followers">
         <img alt="GitHub followers" 
-             src="https://img.shields.io/github/followers/OkamiMks?style=social" />
+             src="https://img.shields.io/github/followers/0xLoky?style=social" />
     </a>
-    <a href="https://twitter.com/OkamiMwaree">
+    <a href="https://twitter.com/0xLoky">
         <img alt="Twitter Follow" 
-             src="https://img.shields.io/twitter/follow/OkamiMwaree?style=social">
+             src="https://img.shields.io/twitter/follow/0xLoky?style=social">
     </a>
     <a href="https://visitor-badge.glitch.me">
         <img alt="Visitors"
-             src="https://visitor-badge.glitch.me/badge?page_id=OkamiMks.visitor-badge" />
+             src="https://visitor-badge.glitch.me/badge?page_id=0xLoky.visitor-badge" />
     </a>
 </div><br>
 <br>
