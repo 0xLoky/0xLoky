@@ -35,11 +35,14 @@ int main() {
    <a href="">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/mysql.svg" alt="vscode" width="40" height="40"/>
    </a>
+       <a href="https://code.visualstudio.com/">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/wordpress.svg" alt="pythob" width="40" height="40"/>
+   </a>
    <a href="https://code.visualstudio.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
    </a>
        <a href="https://code.visualstudio.com/">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/linux.svg" alt="pythob" width="40" height="40"/>
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/wordpress.svg" alt="pythob" width="40" height="40"/>
    </a>
 </p>
 <h4 align="center">
