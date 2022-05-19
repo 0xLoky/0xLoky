@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=0xLoky%20🏴‍☠️&fontSize=60&animation=fadeIn&fontAlignY=38&desc=22yo%20Software%20and%20Game%20Developer&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=0xLoky%20🏴‍☠️&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20And%20Pentesting%20Tool%20Scripting&descAlignY=51&descAlign=62)
 <div style="width: 10px;"></div>
 <a  href="https://discord.gg/5dZPVytKnn"><img align="right" src="https://discordapp.com/api/guilds/914797672907563041/widget.png?style=banner4"/></a>
 
