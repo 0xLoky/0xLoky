@@ -49,7 +49,7 @@ int main() {
 <h5 align="center">help our projects by making a donation, all the money raised is used for new projects</h5>
 <p align="center">
     <a href="https://www.paypal.com/donate?hosted_button_id=NKQEXWK3RQDPQ&source=url">
-        <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="33" width="130" />
+        <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="50" width="130" />
     </a>
 
 <p align="center">
