@@ -18,24 +18,6 @@ int main() {
     return 0;
 }
 ``` 
-<div style="width: 10px;"></div>
-<div align="center">
-    <a href="https://www.paypal.com/donate?hosted_button_id=NKQEXWK3RQDPQ&source=url">
-        <img alt="Paypal donate"
-             src="https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=flat-square">
-    </a>
-    <a href"https://github.com/0xLoky?tab=followers">
-        <img alt="GitHub followers" 
-             src="https://img.shields.io/github/followers/0xLoky?style=social" />
-    </a>
-    <a href="https://twitter.com/0xLoky">
-        <img alt="Twitter Follow" 
-             src="https://img.shields.io/twitter/follow/0xLoky?style=social">
-    </a>
-    <a href="https://visitor-badge.glitch.me">
-        <img alt="Visitors"
-             src="https://visitor-badge.glitch.me/badge?page_id=0xLoky.visitor-badge" />
-    </a>
 </div><br>
 <br>
 
@@ -70,5 +52,21 @@ int main() {
     </a>
 
 <p align="center">
-    0xLoky@protonmail.com - Paypal<br>
- </p>
+<div style="width: 10px;"></div>
+<div align="center">
+    <a href="https://www.paypal.com/donate?hosted_button_id=NKQEXWK3RQDPQ&source=url">
+        <img alt="Paypal donate"
+             src="https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=flat-square">
+    </a>
+    <a href"https://github.com/0xLoky?tab=followers">
+        <img alt="GitHub followers" 
+             src="https://img.shields.io/github/followers/0xLoky?style=social" />
+    </a>
+    <a href="https://twitter.com/0xLoky">
+        <img alt="Twitter Follow" 
+             src="https://img.shields.io/twitter/follow/0xLoky?style=social">
+    </a>
+    <a href="https://visitor-badge.glitch.me">
+        <img alt="Visitors"
+             src="https://visitor-badge.glitch.me/badge?page_id=0xLoky.visitor-badge" />
+    </a> </p>
