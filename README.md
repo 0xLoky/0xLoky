@@ -87,55 +87,6 @@ int main() {
 </p>
 <h4 align="center">
 
-<p align="center">
-  <a href="https://github.com/okamimks">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=okamimks&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
-    />
-  </a>
-  <a href="https://github.com/okamimks">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=okamimks&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/okamimks">
-    <img
-      align="center"
-      src="https://github-profile-trophy.vercel.app/?username=okamimks&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
-  </a>
-</a>
-</p>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=okamimks&theme=react-dark" alt="drawing" width="800"/>
-
-<h3 align="center">Sobre mim:</h3>
-
-<p align="center">
-  <a href="https://twitter.com/OkamiMwaree">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/Twitter-1C1C1C?style=for-the-badge&logo=twitter&logoColor=00FFFF"
-    />
-  </a>
-  <a href="https://discord.gg/5dZPVytKnn">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/Discord-1C1C1C?style=for-the-badge&logo=discord&logoColor=00FFFF">
-  </a>
-  <a href="https://www.youtube.com/channel/UCUTGS1STQF2uSzO91ulpjAw">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/YouTube-1C1C1C?style=for-the-badge&logo=youtube&logoColor=00FFFF"
-    />
-  </a>
-</p>
 
 ## **☕ Donates:**
 <h5 align="center">help our projects by making a donation, all the money raised is used for new projects</h5>
