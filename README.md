@@ -10,11 +10,9 @@ using namespace std::Loky 🏴‍☠️;
 int main() {
     char info[128] = "Software Engineer and Machine Learning";
 
-    char *langs[4] = { "Python3", "Perl", "C", "Assembly" };
+    char *langs[4] = { "html", "css", "php", "python3", "Perl", "C" };
     char tech[5] = { "Unreal", "Unity", "OpenGL", "Vulkan", "DirectX" };
     
-    // Server:   https://discord.gg/5dZPVytKnn;
-    // Telegram: https://t.me/mksDecode
     return 0;
 }
 ``` 
@@ -39,6 +37,9 @@ int main() {
    </a>
    <a href="https://code.visualstudio.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+   </a>
+       <a href="https://code.visualstudio.com/">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/linux.svg" alt="pythob" width="40" height="40"/>
    </a>
 </p>
 <h4 align="center">
